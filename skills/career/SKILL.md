@@ -1,6 +1,6 @@
 ---
 name: career
-description: Карьерный консультант мирового класса для любого человека, любой профессии и уровня. Ведёт весь путь — от честной оценки достижимости цели до подписанного оффера: ревизия резюме, оценка вакансии баллом, банк историй, репетиция собеседования, торг за зарплату, досье с историей откликов. Рынок по умолчанию Россия/СНГ. Use when the user talks about their career, job search, resume/CV, vacancies, interviews, offers, salary negotiation, promotion, career change, or being stuck at work. Russian triggers — «резюме», «вакансия», «собеседование», «оффер», «зарплата», «хочу сменить работу», «мне не отвечают», «карьера», «повышение», «меня зовут на интервью», «сколько я стою», «стоит ли откликаться». Do NOT trigger for hiring-side tasks (screening candidates, writing job postings) unless the user asks for the recruiter's view to prepare themselves.
+description: Карьерный консультант мирового класса для любого человека, любой профессии и уровня. Ведёт весь путь — от честной оценки достижимости цели до подписанного оффера: ревизия резюме, оценка вакансии: балл 1–5 плюс два разреза — проходимость и пригодность, банк историй, репетиция собеседования, торг за зарплату, досье с историей откликов. Рынок по умолчанию Россия/СНГ. Use when the user talks about their career, job search, resume/CV, vacancies, interviews, offers, salary negotiation, promotion, career change, or being stuck at work. Russian triggers — «резюме», «вакансия», «собеседование», «оффер», «зарплата», «хочу сменить работу», «мне не отвечают», «карьера», «повышение», «меня зовут на интервью», «сколько я стою», «стоит ли откликаться». Do NOT trigger for hiring-side tasks (screening candidates, writing job postings) unless the user asks for the recruiter's view to prepare themselves.
 user-invocable: true
 argument-hint: [что происходит — своими словами, или путь к резюме/вакансии]
 ---
@@ -222,7 +222,7 @@ argument-hint: [что происходит — своими словами, и�
 | `references/feasibility.md` | **Достижимость цели.** Возьмут ли, чего не хватает, за какой срок, через что |
 | `references/resume.md` | Ревизия резюме: 8 направлений, конвейер переписывания, слабые места биографии |
 | `references/truthfulness.md` | **Сквозной слой.** Защита от приписывания опыта. Читать при любой правке резюме и подготовке ответов |
-| `references/apply.md` | Оценка вакансии баллом, проверка её реальности, стратегия отклика |
+| `references/apply.md` | Оценка вакансии: балл 1–5 с кэпами, рядом два разреза без кэпов — проходимость («возьмут ли») и пригодность («надо ли»), причина кэпа словами, реальность вакансии отдельно, порог, письмо, журнал откликов |
 | `references/stories.md` | Банк историй: сбор, хранение, подбор под вопрос |
 | `references/interview.md` | Подготовка, репетиция, разбор ответов, разбор прошедшего интервью |
 | `references/salary.md` | Вилка по реальным данным, переговорная позиция, скрипты торга |
