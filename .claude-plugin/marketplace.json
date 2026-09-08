@@ -1,0 +1,32 @@
+{
+  "name": "career-consultant-skill",
+  "owner": {
+    "name": "lezg1n89"
+  },
+  "metadata": {
+    "description": "Карьерный консультант для Claude Code с российским рыночным слоем",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "career",
+      "source": "./",
+      "description": "Карьерный консультант: честная оценка достижимости цели, интервью о потребности, резюме, отбор вакансий баллом, подготовка к собеседованию, торг за оффер. Любая профессия и уровень. Рынок по умолчанию Россия/СНГ, методика универсальная.",
+      "version": "1.0.0",
+      "author": {
+        "name": "lezg1n89"
+      },
+      "keywords": [
+        "career",
+        "resume",
+        "job-search",
+        "interview",
+        "salary-negotiation",
+        "hh.ru",
+        "russia"
+      ],
+      "category": "productivity",
+      "strict": false
+    }
+  ]
+}

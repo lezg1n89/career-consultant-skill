@@ -1,0 +1,22 @@
+{
+  "name": "career",
+  "description": "Карьерный консультант: честная оценка достижимости цели, интервью о потребности, резюме, отбор вакансий баллом, подготовка к собеседованию, торг за оффер. Любая профессия и уровень. Рынок по умолчанию Россия/СНГ, методика универсальная.",
+  "version": "1.0.0",
+  "author": {
+    "name": "lezg1n89"
+  },
+  "homepage": "https://github.com/lezg1n89/career-consultant-skill",
+  "repository": "https://github.com/lezg1n89/career-consultant-skill",
+  "license": "MIT",
+  "keywords": [
+    "career",
+    "resume",
+    "job-search",
+    "interview",
+    "salary-negotiation",
+    "hh.ru",
+    "russia",
+    "skills",
+    "claude-code"
+  ]
+}
